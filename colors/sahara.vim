@@ -27,8 +27,8 @@ if has("gui_running") || &t_Co == 256
     "
     highlight Comment      term=NONE cterm=NONE ctermfg=110  ctermbg=NONE gui=NONE guifg=#87afd7 guibg=NONE
     highlight Constant     term=NONE cterm=NONE ctermfg=217  ctermbg=NONE gui=NONE guifg=#ffafaf guibg=NONE
-    highlight CursorLine   term=NONE cterm=NONE ctermfg=NONE ctermbg=235  gui=NONE guifg=NONE    guibg=#4c4c4c
     highlight Cursor       term=NONE cterm=NONE ctermfg=66   ctermbg=222  gui=NONE guifg=#5f8787 guibg=#ffd787
+    highlight CursorLine   term=NONE cterm=NONE ctermfg=NONE ctermbg=235  gui=NONE guifg=NONE    guibg=#4c4c4c
     highlight DiffAdd      term=NONE cterm=NONE ctermfg=NONE ctermbg=22   gui=NONE guifg=NONE    guibg=#005f00
     highlight DiffChange   term=NONE cterm=NONE ctermfg=NONE ctermbg=17   gui=NONE guifg=NONE    guibg=#00005f
     highlight DiffDelete   term=NONE cterm=NONE ctermfg=NONE ctermbg=52   gui=NONE guifg=NONE    guibg=#5f0000
