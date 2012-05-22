@@ -6,5 +6,5 @@ Tweaked version of the desert256 colorscheme for Vim without the clunky color de
 License
 -------
 
-Copyright (c) Tom Ryder. Distributed under the same terms as Vim itself. See `:help license`.
+Copyright (c) [Tom Ryder](http://www.sanctum.geek.nz/about/tom-ryder/). Distributed under the same terms as Vim itself. See `:help license`.
 
