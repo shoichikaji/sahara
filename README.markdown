@@ -13,5 +13,5 @@ Copyright (c) [Tom Ryder][2]. Distributed under the same terms as Vim itself.
 See `:help license`.
 
 [1]: http://www.vim.org/scripts/script.php?script_id=1243
-[2]: http://www.sanctum.geek.nz/about/tom-ryder
+[2]: http://sanctum.geek.nz/
 
