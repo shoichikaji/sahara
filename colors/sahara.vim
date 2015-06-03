@@ -69,12 +69,5 @@ if has("gui_running") || &t_Co == 256
     highlight! link VertSplit   StatusLineNC
     highlight! link VimHiGroup  VimGroup
 
-    "
-    " Some specific links for things I just like to tweak a bit.
-    "
-    highlight! link htmlTag        Type
-    highlight! link htmlEndTag     htmlTag
-    highlight! link phpVarSelector phpIdentifier
-
 endif
 
