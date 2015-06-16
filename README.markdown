@@ -4,6 +4,8 @@ Sahara
 Tweaked version of the [desert256][1] colorscheme for Vim, without the clunky
 color detection code. More subdued status bars, tab bars, and line numbers.
 
+![Screenshot](screenshot.png)
+
 License
 -------
 
