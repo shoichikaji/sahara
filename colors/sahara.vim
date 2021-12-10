@@ -25,7 +25,7 @@ if has("gui_running") || &t_Co == 256
     "
     " Actual colours and styles.
     "
-    highlight Comment      term=NONE cterm=NONE ctermfg=110  ctermbg=NONE gui=NONE guifg=#87afd7 guibg=NONE
+    highlight Comment      term=NONE cterm=NONE ctermfg=8  ctermbg=NONE gui=NONE guifg=#87afd7 guibg=NONE
     highlight Constant     term=NONE cterm=NONE ctermfg=217  ctermbg=NONE gui=NONE guifg=#ffafaf guibg=NONE
     highlight Cursor       term=NONE cterm=NONE ctermfg=66   ctermbg=222  gui=NONE guifg=#5f8787 guibg=#ffd787
     highlight DiffAdd      term=NONE cterm=NONE ctermfg=NONE ctermbg=22   gui=NONE guifg=NONE    guibg=#005f00
@@ -37,7 +37,7 @@ if has("gui_running") || &t_Co == 256
     highlight Identifier   term=NONE cterm=NONE ctermfg=120  ctermbg=NONE gui=NONE guifg=#87ff87 guibg=NONE
     highlight Ignore       term=NONE cterm=NONE ctermfg=240  ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
     highlight IncSearch    term=NONE cterm=NONE ctermfg=147  ctermbg=24   gui=NONE guifg=#afafff guibg=#005f87
-    highlight LineNr	   term=NONE cterm=NONE ctermfg=256	 ctermbg=none gui=NONE guifg=#857b6f guibg=#080808
+    highlight LineNr	   term=NONE cterm=NONE ctermfg=8	 ctermbg=none gui=NONE guifg=#857b6f guibg=#080808
     highlight ModeMsg      term=NONE cterm=NONE ctermfg=178  ctermbg=NONE gui=NONE guifg=#d7af00 guibg=NONE
     highlight MoreMsg      term=NONE cterm=NONE ctermfg=29   ctermbg=NONE gui=NONE guifg=#00875f guibg=NONE
     highlight NonText      term=NONE cterm=NONE ctermfg=237  ctermbg=NONE gui=NONE guifg=#3a3a3a guibg=NONE
